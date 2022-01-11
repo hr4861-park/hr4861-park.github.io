@@ -33,12 +33,15 @@ repository: "hr4861-park/hr4861-park.github.io"
 github_username:  hr4861-park
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"
 site.locale: "ko-KR"
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 defaults:
   # _posts
