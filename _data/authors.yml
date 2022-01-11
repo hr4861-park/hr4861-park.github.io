@@ -1,0 +1,11 @@
+
+Hyangrae Park:
+  name  : "Hyangrae Park"
+  bio   : "항상 잘하고싶다."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hyangrae.park@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hr4861-park"
