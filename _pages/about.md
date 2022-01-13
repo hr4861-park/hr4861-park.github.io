@@ -8,7 +8,6 @@ title: "About"
 
 - Java
 - C#
-- Python
 - HTML, CSS, JS
 - Typescript
 
