@@ -134,7 +134,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hr4861-park"
 
-
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue-term: "title"
 
 defaults:
   # _posts
